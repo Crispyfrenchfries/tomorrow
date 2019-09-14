@@ -1,0 +1,15 @@
+.page-btn {
+    width: 150px;
+    margin: 0 auto;
+}
+
+.page-btn ul{
+    overflow: hidden;
+    padding-left: 0;
+}
+.page-btn ul li{
+    float: left;
+    text-align: center;
+    padding: 10px;
+    cursor: pointer;
+}

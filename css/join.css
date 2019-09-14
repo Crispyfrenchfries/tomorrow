@@ -1,0 +1,20 @@
+.joinWrap input{
+    width: 100%;
+    box-sizing: border-box;
+    padding: 15px;
+    margin: 5px 0;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    background-color: white;
+}
+#section1 div #joinButton{
+    width: 100%;
+    border: 1px solid #ff0061;
+    background-color: #ff0061;
+    border-radius: 5px;
+    font-weight: bold;
+    padding: 10px;
+    margin: 10px 0;
+    color: white;
+    font-size: 18px;
+}

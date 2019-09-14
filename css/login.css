@@ -1,0 +1,42 @@
+#section1{
+
+}
+#section1 .content .center{
+
+}
+#section1 .content .center .subTitle h2{
+    text-align: center;
+}
+#section1 .loginWrap input{
+    width: 100%;
+    box-sizing: border-box;
+    padding: 15px;
+    margin: 5px 0;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    background-color: white;
+}
+#section1 div #loginbutton{
+    width: 100%;
+    border: 1px solid #ff0061;
+    background-color: #ff0061;
+    border-radius: 5px;
+    font-weight: bold;
+    padding: 10px;
+    margin: 10px 0;
+    color: white;
+    font-size: 18px;
+}
+#section1 #findWrap{
+    text-align: center;
+    font-size: 14px;
+    font-weight: bold;
+    margin: 15px 0;
+}
+#section1 #nonMember{
+    border-top: 1px solid #ccc;
+}
+#section1 #nonMember p{
+    text-align: center;
+    font-size: 14px;
+}  
