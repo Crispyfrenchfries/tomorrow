@@ -30,7 +30,7 @@ a{
     float: left;
 }
 #header #logoWrap #logo {
-    margin: 18px 0;
+    margin: 14px 0;
 }
 #header #logoWrap #logo a{
     font-size: 24px;
@@ -199,7 +199,7 @@ a{
     border: 1px solid #eee;
     background-color: #eee;
     text-align: center;
-    padding: 20px 0;
+    padding: 30px 0;
     margin: 60px 0;
     border-radius: 6px;
 }
@@ -210,8 +210,8 @@ a{
     font-weight: bold;
 }
 .section #top100Wrap #top100go {
-    border: 1px solid #18d9f5;
-    background-color: #18d9f5;
+    border: 1px solid #ff0061;
+    background-color: #ff0061;
     border-radius: 10px;
     padding: 8px 9px;
     margin: 0px 16px;

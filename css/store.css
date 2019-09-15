@@ -13,3 +13,35 @@
     padding: 10px;
     cursor: pointer;
 }
+#keyWordWrap {
+    overflow: hidden;
+}
+#keyWordWrap .keyWord { 
+    width: 235px;
+    height: 160px;
+    margin: 20px 17px;
+    border-radius: 10px;
+    display: inline-block;
+    background-size: 100%;
+    
+}
+#keyWordWrap .keyWord p {
+    padding: 52px;
+    text-align: center;
+    color:white;
+    font-weight: bold;
+}
+#keyWordWrap  #keyword1 {
+    background-image:url('../image/img5.PNG');
+    margin-left: 0;
+    filter: brightness(50%);
+}
+#keyWordWrap #keyword2 {
+    background-image:url('../image/img6.PNG'); 
+}
+#keyWordWrap #keyword3 {
+    background-image:url('../image/img7.PNG');
+}
+#keyWordWrap #keyword4 {
+    background-image:url('../image/img8.PNG');    
+}
